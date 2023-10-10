@@ -3,9 +3,9 @@
     "port": "8080"
   },
   "mongodb": {
-    "hostname": "luster0.efbwdcv.mongodb.net/",
+    "hostname": "",
     "port": "27017",
-    "username": "felipe",
-    "password": "12345"
+    "username": "",
+    "password": ""
   }
 }
