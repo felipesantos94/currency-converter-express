@@ -1,0 +1,11 @@
+{
+  "api": {
+    "port": "8080"
+  },
+  "mongodb": {
+    "hostname": "luster0.efbwdcv.mongodb.net/",
+    "port": "27017",
+    "username": "felipe",
+    "password": "12345"
+  }
+}
